@@ -1,0 +1,52 @@
+{
+	"sites": [
+ 		{ 
+		  "nom": "Dernières actualités",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/"
+ 		},
+ 		{ 
+ 		  "nom": "Actualités Internet",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/internet/"
+		 },
+		 { 
+		  "nom": "Actualités Informatique",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/informatique/"
+		 },
+		 { 
+		  "nom": "Actualités Télécoms",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/telecoms/"
+		 },
+		 { 
+		  "nom": "Actualités Management",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/it-management/"
+		 },
+		 { 
+		  "nom": "Actualités sur les Smartphones",
+		  "adresse": "http://www.zdnet.fr/feeds/rss/actualites/smartphone-4000002598q.htm"
+		 },
+		 { 
+		  "nom": "Blog Androblog",
+		  "adresse": "http://www.zdnet.fr/blogs/androblog/rss/"
+		 },
+		 { 
+		  "nom": "Blog CyberVigilance",
+		  "adresse": "http://www.zdnet.fr/blogs/cybervigilance/rss/"
+		 },
+		 {
+		  "nom": "Blog Développeur",
+		  "adresse": "http://www.zdnet.fr/blogs/developpeur-zone/rss/"
+		 },
+		 {
+		  "nom": "Blog Digital Home Revolution",
+		  "adresse": "http://www.zdnet.fr/blogs/digital-home-revolution/rss/"
+		 },
+		 {
+		  "nom": "Blog le WebObserver",
+		  "adresse": "http://www.zdnet.fr/blogs/le-webobserver/rss/"
+		 },		 
+		 {
+		  "nom": "Blog Ubuntu and Co",
+		  "adresse": "http://www.zdnet.fr/blogs/ubuntu-co/rss/"
+		 }
+	] 
+}

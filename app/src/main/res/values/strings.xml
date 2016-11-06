@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SIO FLUX RSS</string>
+    <string name="nom">nom</string>
+    <string name="adresse">adresse</string>
+</resources>
